@@ -5,7 +5,7 @@
         <!-- <img alt="logo" class="logo" src="@/assets/img/logo.png" /> -->
         <span class="title">{{ systemName }}</span>
       </div>
-      <div class="desc">注：此项目根据框架进行改动</div>
+      <div class="desc">注：此项目根据框架进行改动 适合用于学习研究</div>
     </div>
     <div class="login">
       <a-form @submit="onSubmit" :form="form">
