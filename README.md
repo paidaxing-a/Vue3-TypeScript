@@ -16,7 +16,7 @@
 ## 使用
 ### clone
 ```bash
-$ git clone https://github.com/iczer/vue-antd-admin.git
+$ git clone https://github.com/paidaxing-a/Vue3-TypeScript.git
 ```
 ### yarn
 ```bash
